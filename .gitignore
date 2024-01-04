@@ -1,0 +1,41 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# IntelliJ IDEA files
+.idea/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Maven build directory
+target/
+
+# Gradle build directory
+build/
+
+# Eclipse metadata folder
+.metadata/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA workspace files
+*.iml
+.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+
+
+# Maven settings file
+.settings.xml
+
